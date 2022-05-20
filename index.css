@@ -12,8 +12,19 @@
     text-align: center;
     padding: 5%;
     position: absolute;
-    top: 50%;
+    top: 45%;
     left: 40%;
+    
     
 }
 
+#home>button {
+    padding: 3px 8px;
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+
+#home>button>a{
+    text-decoration: none;
+    color: #000000;
+}
